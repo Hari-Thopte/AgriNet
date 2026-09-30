@@ -1,0 +1,1234 @@
+{
+  "built_for_farmers_across_brics": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\AuthCard.jsx"
+  ],
+  "offlinefirst_mode_active": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "no_internet_detected_serving_l": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "offline_action": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "manage_storage": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "connection_restored": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "successfully_synced": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "queued_action": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "to_agrinet_cloud": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "online_with_unsynced_drafts": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "you_have": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "offline_item": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "waiting_to_sync": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\components\\OfflineBanner.jsx"
+  ],
+  "smart_battery_optimization_low": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\BatterySaver.jsx"
+  ],
+  "minimize_cpu_background_pollin": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\BatterySaver.jsx"
+  ],
+  "hardware_optimization_toggles": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\BatterySaver.jsx"
+  ],
+  "lowend_device_performance_guar": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\BatterySaver.jsx"
+  ],
+  "tested_to_run_smoothly_on_2gb_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\BatterySaver.jsx"
+  ],
+  "lowpower_mode_reduces_total_cp": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\BatterySaver.jsx"
+  ],
+  "extends_active_farm_scouting_b": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\BatterySaver.jsx"
+  ],
+  "real_farmer_success_stories": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "verified_results_from_farmers_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "farmers_try_this": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "how_you_compare_anonymous": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "see_how_your_farm_metrics_comp": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "regional_avg": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "top_10": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "trust_verification": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "all_advice_on_agrin_is_validat": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "community_trust": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "success_stories_benchmarking_v": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\CommunityHub.jsx"
+  ],
+  "loading_agristack_digital_pass": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "agristack_brics_digital_farmer": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "standard_protocol": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "verified_aadhaar_land_record": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "passport_id": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "farmer_name": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "credit_score_kcc_eligible": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "land_holding": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "soil_health_card": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "organic_carbon": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "verified_yield_certifications": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "sha256_signature": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "export_verified_passport_json": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "fasttrack_share_to_bank_pmkisa": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "farmer_data_sovereignty_brics_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "digital_farmer_passport_agrist": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "farmer_data_sovereignty_princi": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "your_agricultural_data_belongs": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "localfirst_storage": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "model_where_your_farm_coordina": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "granular_sharing_permissions": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "data_rights_portability": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "under_brics_digital_agricultur": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "export_my_data_json": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "purge_all_local_cache": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DataConsent.jsx"
+  ],
+  "treated_successfully_by_12_far": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DiagnosticTool.jsx"
+  ],
+  "get_treatment_on_whatsapp": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DiagnosticTool.jsx"
+  ],
+  "we_can_send_the_chemical_name_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DiagnosticTool.jsx"
+  ],
+  "send_to_whatsapp": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\DiagnosticTool.jsx"
+  ],
+  "equipment_booking_confirmed": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "booking_reference": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "will_prepare_the": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "total_amount": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "owner_contact": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "close_form": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "rental_rate": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "required_date": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "transport_option": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "owner_delivery_150": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "self_pickup_free": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "total_payable": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "confirm_booking": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "labor_team_hired": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "workers_will_arrive_on": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "start_date": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "total_labor_wages": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "supervisor_helpline": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "daily_rate": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "team_size": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "duration_days": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "farm_work_crop_description": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "estimated_wages": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "join_group_purchase": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "group_order_placed": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "order_id": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "your_order_for": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "has_been_added_to_the_coop_bat": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "coop_group_savings": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "batch_deadline": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "collection_point": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "village_agricultural_cooperati": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "item_rate": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "batch_total_goal": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "purchase_quantity_unitsbags": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "payment_option": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "pay_at_coop_center": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "online_upi_pay": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "total_order_value": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "confirm_purchase": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "peertopeer_equipment_rental": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "rent_specialized_equipment_fro": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "reserved_unavailable": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "labor_pool": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "connect_with_skilled_labor_tea": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "shared_equipment": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "fund_balance": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "active_group_purchases": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "share_equipment_find_labor_gro": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\EquipmentHub.jsx"
+  ],
+  "apply_for": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "loan_preapplication_submitted": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "application_id": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "agri_desk_will_initiate_docume": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "business_days": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "requested_credit": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "interest_rate": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "required_docs": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "official_portal": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "loan_amount_needed": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "submit_loan_application": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "documents_required": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "official_bank_portal": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "enroll_in": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "insurance_policy_enrolled": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "policy_number": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "acres_is_now_insured_against_w": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "premium_rate": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "claim_trigger": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "government_portal": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "insured_crop_name": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "land_area_acres": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "submit_policy_enrollment": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "weatherindexed_crop_insurance": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "automated_claims_triggered_by_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "pmfby_official_site": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "input_order_placed": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "will_deliver_to": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "within_2_business_days": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "discount_applied": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "confirm_order_add_to_cart": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "verified_regenerative_inputs": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "buy_from_verified_suppliers_gr": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "shopping_cart": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "your_shopping_cart": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "order_placed_successfully": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "estimated_delivery": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "2_business_days": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "total_paid": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "order_dispatched_to_supplier": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "sent_via_sms_to": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "continue_shopping": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "your_cart_is_empty": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "add_organic_seeds_biofertilize": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "delivery_details": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "cash_on_delivery_cod": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "upi_phonepe_gpay": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "kisan_credit_card_kcc_loan_lin": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "group_discount_12": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "place_order": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "credit_access_input_marketplac": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\FinanceHub.jsx"
+  ],
+  "sign_in": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "aipowered_crop_intelligence_no": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "where_every_seed": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "finds_its_season": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "agrin_brings_precision_crop_di": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "start_farming_smart": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "sign_in_to_dashboard": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "agrin_global_agriculture_intel": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "brics_agricultural_network_agr": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "cooperation_framework_india_pr": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "brics_agrin": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LoginPage.jsx"
+  ],
+  "agroinputs_genetic_resources_i": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "key_objectives_technical_initi": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "germplasm_exchange": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "sharing_climateresilient_indig": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "anticounterfeit_protection": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "qr_serialization_database_for_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "knowledge_sharing": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "multilingual_peertopeer_knowle": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "access_brics_knowledge_exchang": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "contact_agrin_support_helpdesk": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "247_farmer_helpline_direct_inq": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "message_sent_successfully": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "our_agricultural_specialist_te": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "tollfree_kisan_call_center": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "official_support_email": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "your_name": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "phone_number": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "how_can_we_help_you": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "submit_farmer_support_request": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "agrin_core_platform_modules": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "endtoend_digital_agriculture_e": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "explore_all_features_in_app": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "about_agrin_ecosystem": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "empowering_smallholder_farmers": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "was_founded_to_bridge_the_gap_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "farmer_data_sovereignty": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "localfirst_encrypted_storage_w": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "lowbandwidth_design": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "works_reliably_on_2g3g_network": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "fair_market_linkages": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "direct_buyer_connections_elimi": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "join_the_agrin_platform": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LandingPage.jsx"
+  ],
+  "agrinet_lite_sms_ussd": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "ultralightweight_fallback_serv": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "2way_sms_service_56070": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "interactive_ussd_560": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "voice_call_ivr_outbound_adviso": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "agrinet_sms_56070": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "2g_sms_active": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "popular_farmer_shortcodes": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "farmers_can_send_standard_text": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "free_sms": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "gsm_cellular_network_dialed_56": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "why_ussd_for_rural_agriculture": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "instant_response_zero_data_req": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "ussd_runs_directly_over_signal": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "to_query_crop_market_prices_in": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "outbound_voice_call_advisory_i": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "for_illiterate_smallholders_wh": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "select_preferred_regional_lang": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LiteVersion.jsx"
+  ],
+  "back_to_home": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\Login.jsx"
+  ],
+  "connecting_5_nations_28_billio": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LoginPage.jsx"
+  ],
+  "bcrypt_jwt_endtoend_encrypted": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LoginPage.jsx"
+  ],
+  "passwords_dont_match": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\LoginPage.jsx"
+  ],
+  "mandi_trend_ai_advisory": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "location_mandi": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "news_loan_waiver_cabinet": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "news_el_nino": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "news_panchanama": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "news_damage_assess": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "news_drought_deepens": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "news_ai_pilot": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "news_ai_10k": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "news_loan_waiver_all": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "news_loan_waiver_eligibility": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "news_loan_waiver_2lakh": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\MarketPrices.jsx"
+  ],
+  "clear_cache": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "offline_data_modules_status": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "not_cached_yet": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "zerocloud_guarantee_for_remote": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "smallholders_can_tap": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "precache_all_data_now": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "while_connected_to_wifi4g_at_t": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "pending_offline_actions": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "sync_channel_status": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "queued_payload_size": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "pending_sync_queue": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "clear_queue": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx",
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "queue_is_empty": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "all_actions_taken_offline_have": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "queued_at": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "smsussd_simulator": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "this_simulates_how_agrin_works": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "agrin_sms_56070": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "offline_connectivity_hub": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "access_agrin_features_without_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "data_privacy_brics_consent": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "manage_crossborder_data_permis": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "battery_saver_mode": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "optimize_screen_background_cpu": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "progressive_apk_bundles": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "manage_feature_packages_ondema": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\OfflineHub.jsx"
+  ],
+  "reduce_postharvest_losses": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "2040_of_crops_are_lost_after_h": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "loss_reduction": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "connect_with": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "inquiry_sent_to_buyer": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "reference_id": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "procurement_team_will_contact_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "crop_offer": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "expected_price_premium": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "payment_terms": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "select_crop_produce": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "available_produce_quantity_qui": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "submit_crop_offer": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "direct_buyer_linkages": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "skip_middlemen_connect_directl": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "price_premium": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "min_quantity": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "tollfree_helpline": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "visit_site": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "book_transport_spot": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "transport_spot_booked": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "spot_reserved_for": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "booked_space": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "total_logistics_cost": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "driver_helpline": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "transport_rate": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "trip_schedule": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "produce_weight_quintals": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "produce_crop_name": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "logistics_fare": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "confirm_spot_booking": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "shared_transport_to_market": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "pool_transport_with_nearby_far": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "spots_left": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "next_trip": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "reduce_losses_find_buyers_shar": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\PostHarvestHub.jsx"
+  ],
+  "progressive_download_apk_size_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "keep_your_initial_app_size_15m": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "device_storage_usage": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "total_storage_used": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "limit_150_mb_target": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "ultralean_15mb_verified": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "ondemand_feature_bundles": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "core_system": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "apk_optimization_specs": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "base_apk_size_84_mb_vite_trees": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "feature_modules_are_codesplit_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "optimized_for_lowbandwidth_2g3": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\ProgressiveDownload.jsx"
+  ],
+  "request_seeds": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "seed_order_request_sent": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "will_confirm_availability_and_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "seed_variety": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "select_crop_seed_type": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "quantity_bags_packets": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "submit_seed_order_request": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "nearby_seed_suppliers": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "verified_suppliers_near_you_wi": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "agrin_germplasm_matcher_climat": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "traditional_seeds_bred_over_ce": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "primary_climate_stress": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "severe_drought_resilience": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "flood_submergence_resistance": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "extreme_heat_salinity_toleranc": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "soil_texture": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "all_soils": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "black_cotton_soil": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "clay_alluvial": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "sandy_loam": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "resilience_score": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "expected_yield": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "seed_bank_vault": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "soil_type": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "rainfall_window": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "order_id_reserved_with": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "call_helpline_18001801551_to_c": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "camera_qr_batch_anticounterfei": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "verify_seed_bags_biopesticides": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "align_packaging_qr_code_inside": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "tap_a_sample_qr_batch_tag_belo": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "scan_sample": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "cancel_camera_scan": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "open_camera_scanner": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "verified_genuine_product": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "agrin_registry_id": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "product_name": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "brand_manufacturer": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "manufacturing_expiry": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "official_license_number": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "lab_test_status": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "cryptographic_digital_signatur": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "authorized_dealer": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "suspicious_unverified_product": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "report_illegal_counterfeit_inp": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "npop_pgsindia_certified_organi": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "peerreviewed_labtested_biofert": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "npop_accreditation": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "seller_cooperative": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "shg_group_discount": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "accredited_laboratory_certific": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "verified_seed_locator_anticoun": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SeedsHub.jsx"
+  ],
+  "accessibility_inclusivity": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\Settings.jsx"
+  ],
+  "sync_manager": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "offline_data_queue_manager_aut": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "queued_upload_items": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "queue_is_clean": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "all_field_photos_pest_diagnost": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "queue_new_offline_data": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "data_upload_category": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "field_photo_crop_leaf_inspecti": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "field_scouting_report_block_in": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "soil_moisture_ph_sensor_dump": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "machinery_service_request": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "field_notes_pest_observations": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "save_to_offline_queue": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "offline_queue_behavior": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "items_saved_while_offline_will": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\SyncManager.jsx"
+  ],
+  "5year_regenerative_transition_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "phased_plan_showing_expected_y": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "yield_change": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "input_cost_change": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "soil_health_score": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "practices_to_adopt": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "personalized_risk_assessment": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "your_risk_profile_across_finan": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "overall_risk": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "peer_mentorship_network": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "connect_with_experienced_regen": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "5year_roadmap_risk_assessment_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\TransitionHub.jsx"
+  ],
+  "your_farm_profile": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "track_plots_you_actually_manag": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "save_profile": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "womens_selfhelp_groups": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "access_shared_advisories_bulk_": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "total_savings": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "active_loans": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "join_group": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "timesaving_tips_for_women_farm": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "laborreducing_practices_specif": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "time_saved": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ],
+  "profile_privacy_shg_network_ti": [
+    "c:\\Users\\Hari\\Desktop\\Agri\\src\\pages\\WomenFarmersHub.jsx"
+  ]
+}

@@ -1,0 +1,25 @@
+
+> brics-agri-net@0.0.0 dev
+> vite --host 127.0.0.1
+
+
+  [32m[1mVITE[22m v8.2.2[39m  [2mready in [0m[1m331[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m11:17:13 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/DiagnosticTool.jsx, /src/index.css[22m
+[2m11:42:36 pm[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m11:42:36 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m11:43:20 pm[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m11:43:20 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:12:45 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/main.jsx[22m
+[2m12:13:03 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GlobalPageTranslator.jsx, /src/index.css[22m
+[2m12:13:57 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m12:13:58 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/LiteVersion.jsx, /src/index.css[22m
+[2m12:14:04 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/LiteVersion.jsx, /src/index.css[22m
+[2m12:14:21 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/contexts/PreferencesContext.jsx, /src/App.jsx, /src/pages/Settings.jsx, /src/pages/LandingPage.jsx, /src/pages/LiteVersion.jsx, /src/components/AuthCard.jsx, /src/pages/AgroBot.jsx, /src/pages/DiagnosticTool.jsx, /src/components/TapToListen.jsx, /src/components/FarmerEssentials.jsx, /src/index.css[22m
+[2m12:14:21 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/contexts/PreferencesContext.jsx[22m Could not Fast Refresh ("usePreferences" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m12:14:21 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/contexts/PreferencesContext.jsx[22m
+[2m12:14:22 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/AgroBot.jsx, /src/pages/DiagnosticTool.jsx, /src/components/TapToListen.jsx, /src/components/FarmerEssentials.jsx, /src/pages/LiteVersion.jsx[22m
+[2m12:15:05 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m12:16:18 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m12:32:23 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
